@@ -23,10 +23,10 @@ Quy tắc khi viết:
 
 ## Thông tin
 
-- **Mã học viên**: A20-XXXXX
-- **Họ tên**: [...]
-- **Ngày**: 2026-05-14
-- **Nhóm Lab 2 của tôi**: [Sản phẩm A vs Sản phẩm B trong ngành ___]
+- **Mã học viên**: 2A202600287
+- **Họ tên**: Tạ Thị Thùy Dương
+- **Ngày**: 2026-05-15
+- **Nhóm Lab 2 của tôi**: Perplexity vs Gemini trong ngành Tìm kiếm
 
 ---
 

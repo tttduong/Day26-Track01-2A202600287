@@ -17,27 +17,27 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 | # | Mã học viên | Họ tên đầy đủ | Phân công chính |
 |---|---|---|---|
-| 1 | A20-XXXXX | [...] | [...] |
-| 2 | A20-XXXXX | [...] | [...] |
+| 1 | 2A202600197 | Nguyễn Quang Tùng | Chụp ảnh Perplexity + Phân tích Moat |
+| 2 | 2A202600287 | Tạ Thị Thùy Dương | Chụp ảnh Gemini + Phân tích Workflow |
 
 ---
 
 ## Nhiệm vụ thử nghiệm chung
 
-[Mô tả 1-2 câu nhiệm vụ chung mà cả 2 thành viên cùng test trên 2 sản phẩm. Ví dụ: "Viết bản tóm tắt 200 từ về tác động của AI lên ngành ed-tech, có dẫn nguồn."]
+Yêu cầu cả 2 sản phẩm tìm hiểu thông tin để ra quyết định mua sắm dựa trên số liệu thực tế, yêu cầu có dẫn nguồn rõ ràng.
 
-**Ngành chọn**: [A — Tìm kiếm / B — Lập trình / C — Viết lách / D — Nghiên cứu]
+**Ngành chọn**: A — Tìm kiếm
 
-**Sản phẩm A**: [tên + URL]
+**Sản phẩm A**: Perplexity (https://www.perplexity.ai)
 
-**Sản phẩm B**: [tên + URL]
+**Sản phẩm B**: Gemini (https://gemini.google.com)
 
 ---
 
 ## Phân chia screenshot
 
-- Sản phẩm A → [Mã học viên nào phụ trách chụp]
-- Sản phẩm B → [Mã học viên nào phụ trách chụp]
+- Sản phẩm A → 2A202600197 (Nguyễn Quang Tùng)
+- Sản phẩm B → 2A202600287 (Tạ Thị Thùy Dương)
 
 ---
 

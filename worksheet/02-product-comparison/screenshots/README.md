@@ -52,3 +52,32 @@ Thêm prefix `d27-`:
 
 - Trước khi commit lên GitHub, kiểm tra ảnh không chứa thông tin cá nhân (email, số điện thoại, mã đăng nhập).
 - Nếu ảnh có thông tin tài khoản, dùng công cụ blur (Awesome Screenshot, Cleanshot, macOS Markup) để che trước.
+
+# Screenshots for Product Comparison
+
+This folder contains screenshots for the comparison between **Perplexity** and **Gemini** based on the test prompt:
+
+> "Tôi có 50 triệu, muốn mua laptop cho học AI/ML. Gợi ý 3 mẫu phù hợp đang bán ở Việt Nam + tại sao lại chọn nó."
+
+## Screenshot Naming Convention
+
+- **Perplexity** — 11 ảnh (`perplexity-1.png` … `perplexity-11.png`):
+  - `perplexity-1.png` — Home page before entering the prompt.
+  - `perplexity-2.png` — After pasting the prompt, before submitting.
+  - `perplexity-3.png` → `perplexity-8.png` — Scrolling through full response (6 screenshots).
+  - `perplexity-9.png` — Results with full citations.
+  - `perplexity-10.png` — Clicking on one cited source to verify.
+  - `perplexity-11.png` — Pricing page of Perplexity.
+
+- **Gemini** — 8 ảnh (`gemini-1.png` … `gemini-8.png`):
+  - `gemini-1.png` — Home page of Gemini (Search toggle enabled if available).
+  - `gemini-2.png` — After pasting the prompt.
+  - `gemini-3.png` → `gemini-6.png` — Scrolling through full response (4 screenshots).
+  - `gemini-7.png` → `gemini-8.png` — Pricing page of Gemini.
+
+## Notes
+
+- Ensure the prompt is identical for both products.
+- Capture screenshots immediately after the first response.
+- Include captions with date, time, and subscription plan used.
+- Verify at least one source by clicking on it for trust evaluation.
